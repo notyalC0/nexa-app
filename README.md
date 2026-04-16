@@ -10,6 +10,16 @@ O Nexa é um aplicativo de gestão financeira desenvolvido com **Flutter**, proj
 
 ---
 
+## 📱 Interface do Projeto
+
+Abaixo, você pode conferir a estética minimalista e moderna do Nexa:
+
+| Home & Saldo | Análise Financeira | Metas de Economia |
+| :---: | :---: | :---: |
+| <img src="docs/screenshots/home.png" width="200" alt="Home Screen"> | <img src="docs/screenshots/analysis.png" width="200" alt="Insights Screen"> | <img src="docs/screenshots/goals.png" width="200" alt="Goals Screen"> |
+
+---
+
 ## ✨ Principais Diferenciais
 
 ### 🎯 Gestão de Metas Inteligente
@@ -56,6 +66,22 @@ Este projeto demonstra a aplicação de padrões modernos de desenvolvimento mob
 2. Baixe o arquivo `app-release.apk`.
 3. No seu Android, permita a instalação de fontes desconhecidas.
 4. Instale e comece a organizar sua vida financeira!
+
+---
+
+## 💬 Feedback e Contribuição
+
+Sua opinião é fundamental para a evolução do Nexa! Se você encontrou um bug ou tem uma sugestão de melhoria, siga os passos abaixo:
+
+### Relatando um Problema (Issue)
+1. Acesse a aba [Issues](https://github.com/notyalC0/Nexa-App/issues) deste repositório.
+2. Clique em **New Issue**.
+3. Descreva detalhadamente o ocorrido ou a sugestão. 
+   - *Para bugs:* Inclua os passos para reproduzir o erro e, se possível, o modelo do seu dispositivo.
+   - *Para sugestões:* Explique como a nova funcionalidade ajudaria no seu controle financeiro.
+
+### Contato Direto
+Para outras dúvidas ou feedbacks rápidos, você também pode entrar em contato via e-mail: [kureitonsanturu@gmail.com](mailto:kureitonsanturu@gmail.com).
 
 ---
 
