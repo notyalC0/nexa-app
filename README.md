@@ -4,7 +4,7 @@
 
 O Nexa é um aplicativo de gestão financeira desenvolvido com **Flutter**, projetado para oferecer uma experiência fluida e inteligente na organização do seu dinheiro. Ele combina um design minimalista com ferramentas robustas de análise e planejamento.
 
-> **Status do Projeto:** Versão 1.4.0 (Estável)
+> **Status do Projeto:** Versão 1.5.0 (Estável)
 > 
 > [📥 Baixar Última Versão (APK)](https://github.com/notyalC0/Nexa-App/releases/latest)
 
